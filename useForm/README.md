@@ -8,6 +8,6 @@ Ejemplo:
         age: 0,
         email: '',
     }
-    const [ values, handelInputChange, reset ] = useForm( initialForm );
 
+    const [ values, handelInputChange, reset ] = useForm( initialForm );
 ```
